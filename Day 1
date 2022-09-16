@@ -1,0 +1,59 @@
+Fmab Database 
+
+Day 1 
+
+Creating main characters 
+
+create (:Person:Alchemist:StateAlchemist:Sacrifice{name:'Edward Elric',title:'Fullmetal'}), 
+(:Person:Alchemist:Sacrifice{name:'Alphonse Elric'}), 
+(:Person:Engineer{name:'Winry Rockbell'}), 
+(:Person:Alchemist:StateAlchemist:Colonel{name:'Roy Mustang',title:'FlameAlchemist'}) 
+
+ 
+
+Creating antagonists 
+create (:Homunculus{name:'Wrath',tittle:'Fuhrer King Bradley'}), 
+(:Homunculus{name:'Lust'}), 
+(:Homunculus{name:'Gluttony'}), 
+(:Homunculus{name:'Envy'}), 
+(:Homunculus{name:'Greed'}), 
+(:Homunculus{name:'Pride'}), 
+(:Homunculus{name:'Sloth'}) 
+
+Creating Alchemists 
+
+create (:Person:Alchemist:StateAlchemist:Major{name:'Alex Louis Armstrong',tittle:'Strong Arm Alchemist'}), 
+(:Person:Alchemist:Sacrifice{name:'Izumi Curtis'}), 
+(:Person:Alchemist:StateAlchemist{name:'Giolio Comanche',tittle:'Silver Alchemist'}), 
+(:Person:Alchemist:StateAlchemist:Brigadier_General{name:'Basque Grand',tittle:'Iron Blood Alchemist'}), 
+(:Person:Alchemist{name:'Cornello'}), 
+(:Person:Alchemist:StateAlchemist:Major{name:'Isaac McDougal',tittle:'Freezing Alchemist'}), 
+(:Person:Alchemist:StateAlchemist{name:'Shou Tucker',tittle:'Sewing-Life Alchemist'}), 
+(:Person:Alchemist:StateAlchemist{name:'Tim Marcoh',tittle:'Crystal Alchemist'}), 
+(:Person:Alchemist:Slave{name:'Van Hohenheim'}) 
+
+ 
+
+Creating Military 
+
+create (:Person:Lieutenant_Colonel:Intelligence_Agent{name:'Maes Hughes'}), 
+(:Person:First_Lieutenant{name:'Riza Hawkeye',tittle:"The Hawk's Eye"}), 
+(:Person:Major_General{name:'Olivier Mira Armstrong',tittle:"Northern Wall of Briggs"}), 
+(:Person:Captain{name:'Bucaneer'}), 
+(:Person:First_Lieutenant{name:'Yoki'}), 
+(:Person:Lieutenant_General{name:'Grumman'}), 
+(:Person:Second_Lieutenant{name:'Jean Havoc',tittle:'The Knight'}), 
+(:Person:Second_Lieutenant{name:'Vato Falman',tittle:'The Bishop'}), 
+(:Person:Second_Lieutenant{name:'Heymans Breda',tittle:'The Rook'}), 
+(:Person:Second_Lieutenant{name:'Maria Ross'}), 
+(:Person:Major{name:'Miles'}), 
+(:Person:Doctor{name:'Knox'}), 
+(:Person:Sergeant{name:'Denny Brosh'}), 
+(:Person:Lieutenant_General{name:'Raven'}), 
+(:Person:Major_General{name:'Halcrow'}), 
+(:Person:Master_Sergeant{name:'Kain Fuery',tittle:'The Pawn'}), 
+(:Person:Librarian{name:'Scieszka'}) 
+
+ 
+
+ 
